@@ -95,6 +95,4 @@ namespace TDPVistaSoftware
             ShowSubPanel(panelCompile);
         }
     }
-
-
 }
